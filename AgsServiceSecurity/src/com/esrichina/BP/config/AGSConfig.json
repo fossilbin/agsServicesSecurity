@@ -1,0 +1,1 @@
+{"root":{"adminPassword":"arcgis","adminUser":"arcgis","allowRoles":[],"dirs":[{"allowRoles":["asia"],"dirs":[],"elements":[],"name":"","url":"http://localhost:6080/arcgis/rest/servicesSystem"}],"ds":null,"elements":[],"name":"","password":"","url":"http://localhost:6080/arcgis/rest/services","user":""}}
